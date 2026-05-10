@@ -1,7 +1,7 @@
 # ddslop
 DXT1/DXT5/BC7 DDS texture compressor in pure python, higher quality than texconv's GPU driver
 
-This is vibecoded software. Someone who understands image compression worked on it, but it's likely to have a bunch of weird edge-case bugs from the llm making bad decisions.
+This is vibecoded software. Someone who understands image compression worked on it, but it's likely to have a bunch of weird edge-case bugs from the llm making bad decisions. If you run into a bug, please report it with replication/example inputs.
 
 # API
 ```py
